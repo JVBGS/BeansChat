@@ -35,3 +35,4 @@ function onload(){
       document.getElementById("Message"+i).stule.color="#303040";
     }
   })
+}
