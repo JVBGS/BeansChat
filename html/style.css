@@ -1,7 +1,7 @@
-body{
+ody{
   background: #f5f5f5;
   color: #303030;
-  font-family: "Segoe UI";
+  font-family: 'Segoe UI';
 }
 
 label{
@@ -12,7 +12,7 @@ label{
 
 input{
   background: #e5e5e5;
-  colour: #303030;
+  color: #303030;
   font-size: 120%;
   border: none;
 }
