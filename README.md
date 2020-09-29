@@ -1,2 +1,2 @@
 # BeansChat
-Benis xD
+Freddie get GitHub
